@@ -1,1 +1,1 @@
-# Hand_Gesture_Interpreter-Artificial-Intelligence
+# Hand_Gesture_Interpreter-Artificial Intelligence
